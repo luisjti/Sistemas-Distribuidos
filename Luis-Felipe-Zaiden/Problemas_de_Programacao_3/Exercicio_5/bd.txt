@@ -1,0 +1,5 @@
+Infantil A
+Infantil B
+Juvenil A
+Juvenil B
+Adulto
